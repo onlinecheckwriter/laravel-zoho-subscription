@@ -1,5 +1,5 @@
 {
-  "name": "boparaiamrit/laravel-zoho-subscription",
+  "name": "Onlinecheckwriter/laravel-zoho-subscription",
   "license": "MIT",
   "authors": [
     {
@@ -12,7 +12,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Boparaiamrit\\ZohoSubscription\\": "src"
+      "Onlinecheckwriter\\ZohoSubscription\\": "src"
     }
   }
 }
