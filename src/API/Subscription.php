@@ -1,6 +1,6 @@
 <?php
 
-namespace Boparaiamrit\ZohoSubscription\API;
+namespace Onlinecheckwriter\ZohoSubscription\API;
 
 /**
  * Subscription.
