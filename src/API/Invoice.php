@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace Boparaiamrit\ZohoSubscription\API;
+namespace Onlinecheckwriter\ZohoSubscription\API;
 
 /**
  * @author Hang Pham <thi@yproximite.com>
