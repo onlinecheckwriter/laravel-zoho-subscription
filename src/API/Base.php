@@ -1,6 +1,6 @@
 <?php
 
-namespace Boparaiamrit\ZohoSubscription\API;
+namespace Onlinecheckwriter\ZohoSubscription\API;
 
 use GuzzleHttp\Client;
 use Illuminate\Cache\Repository as Cache;
