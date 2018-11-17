@@ -1,13 +1,13 @@
 <?php
 
-namespace Boparaiamrit\ZohoSubscription;
+namespace Onlinecheckwriter\ZohoSubscription;
 
-use Boparaiamrit\ZohoSubscription\API\Addon;
-use Boparaiamrit\ZohoSubscription\API\Customer;
-use Boparaiamrit\ZohoSubscription\API\HostedPage;
-use Boparaiamrit\ZohoSubscription\API\Invoice;
-use Boparaiamrit\ZohoSubscription\API\Plan;
-use Boparaiamrit\ZohoSubscription\API\Subscription;
+use Onlinecheckwriter\ZohoSubscription\API\Addon;
+use Onlinecheckwriter\ZohoSubscription\API\Customer;
+use Onlinecheckwriter\ZohoSubscription\API\HostedPage;
+use Onlinecheckwriter\ZohoSubscription\API\Invoice;
+use Onlinecheckwriter\ZohoSubscription\API\Plan;
+use Onlinecheckwriter\ZohoSubscription\API\Subscription;
 use GuzzleHttp\Client;
 
 class ZohoSubscriptionClient
